@@ -1,0 +1,3 @@
+C:\Users\vasil\Desktop\JavaScript\JavaScriptMathsGame\NodeJSMathsGame\NodeJSMathsGame\obj\Debug\NodeJSMathsGame.njsproj.AssemblyReference.cache
+C:\Users\vasil\Desktop\JavaScript\JavaScriptMathsGame\NodeJSMathsGame\NodeJSMathsGame\obj\Debug\NodeJSMathsGame.njsproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\JavaScript\JavaScriptMathsGame\NodeJSMathsGame\NodeJSMathsGame\bin\Microsoft.NodejsTools.WebRole.dll
