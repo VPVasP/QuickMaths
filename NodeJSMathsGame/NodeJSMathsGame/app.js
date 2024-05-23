@@ -1,6 +1,6 @@
 const readline = require('readline');
 
-var score = 5; //score variable
+var score = 0; //score variable
 var lifes = 3; //lifes variable
 
 //function to ask a question
